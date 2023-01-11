@@ -32,7 +32,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "express": "^4.17.1",
-    "knex": "^0.21.3",
+    "knex": "^2.4.0",
     "moment": "^2.27.0",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.0",
